@@ -18,9 +18,15 @@ Answer the following questions for each of the data structures you implemented a
 
 1. What is the runtime complexity of `insert`? 
 
+    0(log n)
+
 2. What is the runtime complexity of `contains`?
 
-3. What is the runtime complexity of `get_max`? 
+    0(log n)
+
+3. What is the runtime complexity of `get_max`?
+
+    0(log n)
 
 ## Heap
 
